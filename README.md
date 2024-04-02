@@ -1,7 +1,6 @@
 # StudentDatabaseManager
 
 This is a simple console-based Java application for managing a student database using MySQL. It allows users to add, remove, and display student records.
-Table of Contents
 ## Introduction
 
 This Java application connects to a MySQL database and provides a user-friendly interface for managing student records. It is implemented using JDBC (Java Database Connectivity) for database operations.
@@ -9,9 +8,7 @@ This Java application connects to a MySQL database and provides a user-friendly 
 ## Prerequisites
 Before running this application, ensure that you have the following installed on your system:
 
-  Java Development Kit (JDK)
-  MySQL database server
-  MySQL Connector/J JDBC driver
+  Java Development Kit (JDK), MySQL database server and MySQL Connector/J JDBC driver
   
 ## Set up the MySQL database:
 
